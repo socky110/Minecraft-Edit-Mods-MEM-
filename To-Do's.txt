@@ -1,4 +1,4 @@
  - Running Zombies & Zombie new animations & new Model
- - 
+     - Model: rotation angles that mirror the ones from ModelMidgimo1,  
  -
  -
